@@ -29,3 +29,18 @@ See more info at https://academicpages.github.io/
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
 
 To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+
+
+# Note about installing Jekyll on Windows 11
+
+This guy's intruction is very nice but I still encountered issues on my Windows 11.
+https://jayrobwilliams.com/posts/2020/06/academic-website/
+
+To install Ruby and subsequently Jekyll through Bundler, I followed this instruction.
+https://idratherbewriting.com/documentation-theme-jekyll/mydoc_install_jekyll_on_windows.html#git-clients-for-windows
+
+To resolve the Github No Metadata error, see the following:
+https://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html
+
+to resolve the TZInfo:: DataSource Not Found issue, see below:
+https://github.com/tzinfo/tzinfo/wiki/Resolving-TZInfo::DataSourceNotFound-Errors

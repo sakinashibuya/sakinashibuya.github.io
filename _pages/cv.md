@@ -1,59 +1,125 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+Click [here]() to download the PDF version.
+
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Agricultural and Applied Economics, University of Wisconsin-Madison, 2019 - Present
+* M.S. in International Development, American University, 2014
+* B.A. in History with a Political Science monior, University of California, Los Angeles, 2009
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research Fields
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Development Economics, Applied Microeconomics
 
-Publications
+Grants and Fellowships
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* SurveyCTO Data Collection Grant Runner-up (Worth $2,376) 2022  
+* Short-term Resident Fellowship, Lahore School of Economic ($6,300) 2022  
+* Early-career Researchers Grant, IGC (£20,000) 2022  
+* Exploratory Research Grant (Scale-up), PEDL CERP (£36,000) 2022  
+* Exploratory Research Grant, PEDL CERP (£4,000) 2021  
+* Doctoral Research Travel Grant, UW Madison ($1500 each) 2021, 2022  
+
+
+Working Papers
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+Kolovich, Lisa, and Sakina Shibuya. (2016, July) “Middle East and Cen-
+tral Asia: A Survey of Gender Budgeting Efforts” Working Paper/16/151.
+International Monetary Fund.  
+
+Stotsky, J., Shibuya, S., Kolovich, L., & Kebhaj, S. (2016, February).
+“Trends in Gender Equality and Women’s Advancement” Working Pa-
+per/16/21. International Monetary Fund.
+
+
+Book Chapter
+======
+Kolovich, Lisa, and Sakina Shibuya. (April, 2018) “Middle East and Central Asia” Chapter, Fiscal Policies and Gender Equality, edited by Lisa Kolovich, International Monetary Fund
+
+Research Experience
+======
+**The World Bank, Development Research Group**  
+   Research Assistant for Professor Thomas Fujiwara, Dr. Martin Kanz,  and Professor Priya Mukherjee  
+   Date: June - December, 2022   
+   Project: Subsidies and voters’ behaviors  
+ 
+**University of Wisconsin, Madison**  
+    Research Assistant for Professor Jeremy Foltz  
+    Date: Sept. 2019 - Aug. 2021, Jan. 2022 - May 2022 , Jan. 2022-    
+    Projects: Climate change, conflict and agriculture in Mali;  
+              Internal migration, conflicts, and inequality in Mali
+
+**The World Bank, Development Research Group**  
+    Research Assistant, Development Impact Evaluation Unit (DIME)  
+    Date: Sept. 2016 - 2019  
+    Projects: Evaluation of agricultural projects in Rwanda  
+
+**International Monetary Fund, Strategy, Policy and Review Dept.**  
+    Research Analyst, Developing Markets Strategy Unit  
+    Date: Nov. 2014 - Aug. 2016  
+    Projects: Macroeconomics and gender inequality  
+
+**American University**  
+  Research Assistant, Professor of Economics, Maria Floro  
+  Date: Sept. - Dec. 2014  
+  Projects: Gender and Climate Change  
+
+**University of California, Los Angeles**  
+  Research Assistant, Associate Professor of Political Science, Michael Thies  
+  Date: Feb. 2008 - June 2009  
+  Projects: Japanese election data set construction  
+
+Conferences
+======
+NBER Summer Institute (Gender), 2022
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+*Introduction to Statistical Methods for Public Policy Analysis*  
+Teaching Assistant for [Professor Ross Milton](https://lafollette.wisc.edu/people/milton-ross/), Fall 2021
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+Other Experience
+======
+**The Bank of Tokyo Mitsubishi UFJ**  
+  Associate Corporate Officer, Sapporo Branch  
+  Date: Apr. 2010 - Jul. 2012  
+  Description: Managed relations with 30 small and medium sized companies
+  Conducted loan feasibility tests, and administered loans
+
+**Permanent Mission of Japan to the United Nations**  
+  Short-term Advisor, Economic Section  
+  Date: Aug. 2009 - Feb. 2010  
+  Description: Represented the Japanese Government in multilateral negotiations; Wrote internal reports and translated official letters
+
+Skills and Languages
+======
+Stata, R, L A TEX, SurveyCTO (fluent)  
+MATLAB, QGIS, ArcGIS, Qualtrics (intermediate)  
+Python (beginner)  
+English (fluent), Japanese (native)  
+
+Advisors
+======
+**Professor Laura Schechter**  
+    Agricultural & Applied Economics, and Economics  
+    University of Wisconsin, Madison  
+    lschechter[at]wisc.edu  
+
+**Professor Jeremy Foltz**  
+    Agricultural & Applied Economics  
+    University of Wisconsin, Madison  
+    jdfoltz[at]wisc.edu
