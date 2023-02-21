@@ -89,8 +89,19 @@ Teaching
 *Introduction to Statistical Methods for Public Policy Analysis*  
 Teaching Assistant for [Professor Ross Milton](https://lafollette.wisc.edu/people/milton-ross/), Fall 2021
 
+
 Service and leadership
 ======
+**UW-Madison's agricultural and applied economics deparment**  
+
+*Taylor-Hibbard Club*
+  Date: 2019-Present
+  Description: Student research colloquium organizer and webmaster for the graduate student association
+
+*Committee on Justice, Equity, Diversity, and Inclusion*
+  Date: 2020-2021
+  Description: Served as one of the two student representatives 
+
 
 Other Experience
 ======

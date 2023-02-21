@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sakina Shibuya"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "UW-Madison"
+  bio              : "PhD Student at UW-Madison"
+  location         :
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=xRYqUEcAAAAJ"
   email            : "sshibuya2@wisc.edu"
   github           : "sakinashibuya"
