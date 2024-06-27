@@ -12,4 +12,4 @@ Served as a solo TA for a graduate-level applied statistics course for UW-Madiso
 
 Description
 ======
-This is a required course for public policy master's students. The class consisted of about 50 students with diverse math and statistics background. My responsibilities included leading discussion sessions and hosting office hours to supplement the main instructor's lectures. I developed the material for all discussion session during the semester.
+This is a required course for public policy master's students. The class consisted of about 50 students with diverse math and statistics background. My responsibilities included leading discussion sessions and hosting office hours to supplement the main instructor's lectures. I developed the material for all discussion session during the semester. Click [here](https://sakinashibuya.github.io/files/PA818_Fall2021_Evaluations.pdf) for the teaching evaluation.
