@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Click [here](http://academicpages.github.io/files/cv.pdf) to download the PDF version.
+Click [here](https://sakinashibuya.github.io/files/cv.pdf) to download the PDF version.
 
 {% include base_path %}
