@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Click [here]() to download the PDF version.
+Click [here](http://academicpages.github.io/files/cv.pdf) to download the PDF version.
 
 {% include base_path %}
