@@ -5,24 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+
+Job Market Paper 
+=====
+
+**Effects of Military Bases on Women in Rural Colombia** (with Felipe Parra)
+Presented at: PacDev 2024, SITE 2024
+
 Current Projects 
 =====
 
-**Effects of Military Bases on Women in Rural Colombia** 
-
-**Understanding Constraints in Hiring Women in Pakistan**
-
-**Effects of Landmines on Rural Households’ Behaviors in Colombia**
-
-Working Papers
-=====
-
-**Middle East and Central Asia: A Survey of Gender Budgeting Efforts**
-
-**Trends in Gender Equality and Women’s Advancement**
+**Understanding Constraints in Hiring Women in Pakistan** (with Zunia Tirmazee)
 
 
-Book Chapter
-=====
+**Effects of Landmines on Rural Households’ Behaviors in Colombia** (with Felipe Parra)
 
-**Middle East and Central Asia**
