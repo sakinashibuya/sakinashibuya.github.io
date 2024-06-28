@@ -5,14 +5,24 @@ permalink: /research/
 author_profile: true
 ---
 
-**Current Projects** 
+Current Projects 
+=====
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Effects of Military Bases on Women in Rural Colombia** 
 
-{% include base_path %}
+**Understanding Constraints in Hiring Women in Pakistan**
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Effects of Landmines on Rural Households’ Behaviors in Colombia**
+
+Working Papers
+=====
+
+**Middle East and Central Asia: A Survey of Gender Budgeting Efforts**
+
+**Trends in Gender Equality and Women’s Advancement**
+
+
+Book Chapter
+=====
+
+**Middle East and Central Asia**
