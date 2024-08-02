@@ -61,3 +61,7 @@ https://github.com/tzinfo/tzinfo/wiki/Resolving-TZInfo::DataSourceNotFound-Error
 
 This guy's instruction on configuring with DNS records on gandi.net is super helpful.
 https://gist.github.com/matt-bailey/bbbc181d5234c618e4dfe0642ad80297
+
+How to enable HTTPS enforcement with a Gandi domain through Claudflare
+https://armand.gr/blog/posts/ghpages-gandi-cloudflare/
+
