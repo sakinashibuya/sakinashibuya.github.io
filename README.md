@@ -56,3 +56,8 @@ https://knightcodes.com/miscellaneous/2016/09/13/fix-github-metadata-error.html
 
 to resolve the TZInfo:: DataSource Not Found issue, see below:
 https://github.com/tzinfo/tzinfo/wiki/Resolving-TZInfo::DataSourceNotFound-Errors
+
+# Note about setting up a custom domain
+
+This guy's instruction on configuring with DNS records on gandi.net is super helpful.
+https://gist.github.com/matt-bailey/bbbc181d5234c618e4dfe0642ad80297
