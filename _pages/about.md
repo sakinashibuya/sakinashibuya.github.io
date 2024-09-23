@@ -16,5 +16,5 @@ I am on the 2024/25 job market.
  
 You can reach out to me at _sshibuya2@wisc.edu_.
 
-Click [here](https://sakinashibuya.github.io/files/cv.pdf) to view and download my CV. 
+Click [here](https://sakinashibuya.github.io/files/CV_SakinaShibuya.pdf) to view and download my CV. 
 
