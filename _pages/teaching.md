@@ -22,8 +22,8 @@ government officials, and development practitioners. These experiences have broa
 to non-specialist audiences.
 
 
-	+ Statistical coding and GitHub training for faculty members at the Lahore School of Economics (2022)
-	+ Summer school on program evaluation and statistical coding for university students and development practitioners in Rwanda (2018)
-	+ Short courses on statistical coding and data visualization for Rwandese government officials (2018)
-	+ R and Stata coding training sessions at the Development Impact (DIME) group at the World Bank (2017-2019)
-	+ Enumerator training for agricultural household surveys in Rwanda for DIME (2017, 2018)
+	+  Statistical coding and GitHub training for faculty members at the Lahore School of Economics (2022)
+	+  Summer school on program evaluation and statistical coding for university students and development practitioners in Rwanda (2018)
+	+  Short courses on statistical coding and data visualization for Rwandese government officials (2018)
+	+  R and Stata coding training sessions at the Development Impact (DIME) group at the World Bank (2017-2019)
+	+  Enumerator training for agricultural household surveys in Rwanda for DIME (2017, 2018)
