@@ -19,10 +19,9 @@ Non-Academic Teaching Experience
 I have extensive non-academic teaching experience, leading training sessions on statistical coding and data visualization for faculty, 
 government officials, and development practitioners. These experiences have broadened my teaching portfolio and enhanced my ability to teach complex concepts 
 to non-specialist audiences.
-\begin{itemize}
-	\item Statistical coding and GitHub training for faculty members at the Lahore School of Economics (2022)
-	\item Summer school on program evaluation and statistical coding for university students and development practitioners in Rwanda (2018)
-	\item Short courses on statistical coding and data visualization for Rwandese government officials (2018)
-	\item R and Stata coding training sessions at the Development Impact (DIME) group at the World Bank (2017-2019)
-	\item Enumerator training for agricultural household surveys in Rwanda for DIME (2017, 2018)
-\end{itemize}
+
+	- Statistical coding and GitHub training for faculty members at the Lahore School of Economics (2022)
+	- Summer school on program evaluation and statistical coding for university students and development practitioners in Rwanda (2018)
+	- Short courses on statistical coding and data visualization for Rwandese government officials (2018)
+	- R and Stata coding training sessions at the Development Impact (DIME) group at the World Bank (2017-2019)
+	- Enumerator training for agricultural household surveys in Rwanda for DIME (2017, 2018)
