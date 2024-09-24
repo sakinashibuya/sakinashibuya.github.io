@@ -9,7 +9,7 @@ author_profile: true
 Job Market Paper 
 =====
 
-**When Protection Fails: Effects of Military Bases on Sexual Violence in Colombia** (with Felipe Parra) [Download.](https://sakinashibuya.github.io/files/JMP_SakinaShibuya.pdf) \
+**When Protection Fails: Effects of Military Bases on Sexual Violence in Colombia** (with Felipe Parra) [Download](https://sakinashibuya.github.io/files/JMP_SakinaShibuya.pdf) \
 To be presented at: _Empirical Studies of Conflict (ESOC), NEUDC 2024_.  Presented at: _PacDev, SITE 2024_.
 
 Sexual violence committed by soldiers is ubiquitous across the world. This paper investigates
