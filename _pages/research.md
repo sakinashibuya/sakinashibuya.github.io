@@ -10,7 +10,7 @@ Job Market Paper
 =====
 
 **When Protection Fails: Effects of Military Bases on Sexual Violence in Colombia** (with [Felipe Parra](https://ffparra303.github.io/)) [Download](https://sakinashibuya.github.io/files/JMP_SakinaShibuya.pdf) \
-To be presented at: _Empirical Studies of Conflict (ESOC), NEUDC 2024_.  Presented at: _PacDev, SITE 2024_.
+To be presented at: _NEUDC 2024, SEA 2024_.  Presented at: _Empirical Studies of Conflict (ESOC) 2024, PacDev 2024, SITE 2024_.
 
 Sexual violence committed by soldiers is ubiquitous across the world. This paper investigates
 the impact of military base presence on sexual violence, fertility, and child
@@ -42,7 +42,8 @@ with social norms related to gender segregation. Preliminary results suggest tha
 as expected, and costs of hiring women, especially the cost of providing safe transportation to women may be more salient to firms' decision 
 to hire women. 
 
-**Watch Your Step:The Economic and Behavioral Responses of Rural Households to Landmines during Conflict** (with [Felipe Parra](https://ffparra303.github.io/)) [Download](https://ffparra303.github.io/papers/JMP_FelipeParra.pdf)
+**Watch Your Step:The Economic and Behavioral Responses of Rural Households to Landmines during Conflict** (with [Felipe Parra](https://ffparra303.github.io/)) [Download](https://ffparra303.github.io/papers/JMP_FelipeParra.pdf) \
+To be presented at: _APPAM 2024, SEA 2024_.
 
 Antipersonnel landmines, though intended to target combatants, disproportionately impact civilians, disrupting economic activity and altering household decision-making processes. This paper examines how rural households in Colombia adjust their labor market decisions and healthcare-seeking behavior in response to recent and nearby landmine events, using detailed spatial data on landmine events combined with longitudinal household survey data. Our findings show that individuals engage less in risky labor activities following recent landmine events, but these responses are heavily influenced by liquidity constraints. Specifically, liquidity-unconstrained individuals are 28\% less likely to work in occupations other than agricultural day labor, particularly in agriculture, and 12\% less likely to spend time on agricultural tasks in their own fields. These households hire additional agricultural workers after landmine exposure, substituting external labor for their own. In contrast, liquidity-constrained individuals are 45\% more likely to engage in agricultural day labor to compensate for income losses stemming from reduced non-agricultural employment. Moreover, landmine events deter both adults and children from seeking formal preventative medical care. This study highlights the differences in responses between liquidity-constrained and unconstrained individuals to shifts in perceived security during conflict.
 
