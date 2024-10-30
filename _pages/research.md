@@ -31,7 +31,7 @@ Current Projects
 =====
 
 **Understanding Constraints in Hiring Women in Pakistan** (with [Zunia Tirmazee](https://sites.google.com/view/zuniasaiftirmazee) and Hana Zahir)
-[_draft coming soon_]
+[Download](https://sakinashibuya.github.io/files/ConstraintsToHireWomen_SakinaShibuya.pdf)
 
 74% of the employers in our survey think women are at least as good as, if not better than, men at on-site production jobs in the 
 garment manufacturing industry in Pakistan. Yet, most factories still do not hire many women on factory floors. 
