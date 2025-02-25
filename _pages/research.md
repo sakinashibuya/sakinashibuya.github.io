@@ -31,16 +31,10 @@ Current Projects
 =====
 
 **Understanding Constraints in Hiring Women in Pakistan** (with [Zunia Tirmazee](https://sites.google.com/view/zuniasaiftirmazee) and Hana Zahir)
-[Download](https://sakinashibuya.github.io/files/ConstraintsToHireWomen_SakinaShibuya.pdf)
+[Download](https://sakinashibuya.github.io/files/WillingButUnable_SakinaShibuya.pdf)
 
-74% of the employers in our survey think women are at least as good as, if not better than, men at on-site production jobs in the 
-garment manufacturing industry in Pakistan. Yet, most factories still do not hire many women on factory floors. 
-While much research has been conducted into the constraints women face in obtaining out-of-home employment, this paper instead investigates: 
-What deters firms from hiring women? We utilized unique firm survey data, complemented by a hypothetical-choice methodology and a behavioral game, 
-to examine the economic and non-economic costs of hiring women. Our study observes how monetary incentives can influence compliance 
-with social norms related to gender segregation. Preliminary results suggest that the willingness to comply with these norms are not as relevant 
-as expected, and costs of hiring women, especially the cost of providing safe transportation to women may be more salient to firms' decision 
-to hire women. 
+Despite 74\% of employers in the garment manufacturing industry in Punjab, Pakistan believing women are as capable as men at on-site production jobs, few hire women on factory floors. While much research has been conducted into the constraints women face in obtaining out-of-home employment, this paper instead investigates: What deters firms from hiring women? We use unique firm and worker survey data, complemented by behavioral experiments to measure willingness to comply with gender norms and estimate the impact of economic costs on hiring decisions. We find that top managers exhibit low willingness to comply with segregation norms and do not expect resistance from male workers. However, economic costs, particularly those related to providing safe transportation, significantly constrain female hiring, reducing the likelihood by 15\%. These findings indicate that reducing economic burdens, such as transportation costs, could effectively increase female employment, highlighting the need for targeted policy interventions.
+			
 
 **Watch Your Step:The Economic and Behavioral Responses of Rural Households to Landmines during Conflict** (with [Felipe Parra](https://ffparra303.github.io/)) [Download](https://ffparra303.github.io/papers/JMP_FelipeParra.pdf) \
 To be presented at: _APPAM 2024, SEA 2024_.
