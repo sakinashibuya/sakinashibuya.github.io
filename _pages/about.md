@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Applied Economics at the University of Wisconsin-Madison. 
+I'm Sakina Shibuya (渋谷　沙紀奈). I'm currently a consultant at [University of Tokyo Economic Consulting (UTEcon)](https://utecon.net/en/).
 
-My research interest is development economics and applied microeconomics with a special focus on gender differences in the economy. My current projects are in Colombia and Pakistan. 
+I completed my Ph.D. degree in Applied Economics at the University of Wisconsin-Madison in 2025. 
+My research interest is development economics and applied microeconomics with a special focus on gender differences in the economy. 
 
-I am on the 2024/25 job market.
+Much of my recent work is based in Colombia and Pakistan, where I study how formal and informal institutions shape economic outcomes, especially for women. 
  
-You can reach out to me at _sshibuya2@wisc.edu_.
+Feel free to reach out:
+For general inquiries or academic collaborations: _sakina0320[at]gmail.com_
+For consulting work at UTEcon: _sakina[at]utecon.net_
 
-Click [here](https://sakinashibuya.github.io/files/CV_SakinaShibuya.pdf) to view and download my CV. 
+
+[View my CV](https://sakinashibuya.github.io/files/CV_SakinaShibuya.pdf). 
 
